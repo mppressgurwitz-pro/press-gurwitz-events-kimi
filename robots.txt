@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pressgurwitz.art/events/sitemap.xml
